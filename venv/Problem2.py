@@ -1,6 +1,7 @@
 # PROBLEM 2 - How do you interpret the confidence intervals
 # you reported in Problem 1?
 
+print("Interpretations")
 # EXPECTED REWARD:
 # If this trial was repeated many times in order to construct a number of
 # independent 95% confidence intervals each based on n observations,
